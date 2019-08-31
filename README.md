@@ -1,2 +1,1 @@
-# IMTK
-Intervention Mining Toolkit (IMTK)
+# Intervention Mining Toolkit (IMTK)
